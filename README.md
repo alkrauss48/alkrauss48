@@ -7,11 +7,7 @@
 ##### NOW
 
 - ⚡️ Organizing [OKC WebDevs](https://www.meetup.com/OKCWebDevs/)
-- 🦬  Volunteering with [Techlahoma](https://techlahoma.org) (Join us on
-  <a href="https://slack.techlahoma.org/" style="width: 50px; display: inline-block">
-    ![Join the Techlahoma Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-  </a>
-)
+- 🦬  Volunteering with [Techlahoma](https://techlahoma.org)
 - 📲 Just launched [CyrusLyrics](https://cyruskrauss.com)
 - 💪 Revamping [ResumeHaus](https://resume.thecodeboss.dev) and [Carnegie
   Chart](https://labs.thecodeboss.dev/carnegie-chart)
