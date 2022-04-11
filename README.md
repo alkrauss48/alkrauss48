@@ -9,7 +9,7 @@
 - ⚡️ Organizing [OKC WebDevs](https://www.meetup.com/OKCWebDevs/)
 - 🦬  Volunteering with [Techlahoma](https://techlahoma.org)
 - 📲 Just launched [CyrusLyrics](https://cyruskrauss.com)
-- 💪 Revamping [ResumeHaus](https://resume.thecodeboss.dev) and [Carnegie
+- 💪 Revamping [ResumeHaus](https://resumeha.us) and [Carnegie
   Chart](https://labs.thecodeboss.dev/carnegie-chart)
 
 ##### BIO
@@ -23,7 +23,7 @@
 - 🔷 Bigger Projects:
   [Portfolio Site](https://thecodeboss.dev),
   [CyrusLyrics](https://cyruskrauss.com),
-  [ResumeHaus](https://resume.thecodeboss.dev),
+  [ResumeHaus](https://resumeha.us),
   and
   [more](https://thecodeboss.dev/projects),
 - 🔹 Smaller Projects:
