@@ -31,10 +31,9 @@
   [Growler Friday](https://growlerfriday.com),
   [Websockets](https://websockets.thecodeboss.dev),
   [Breakout](https://labs.thecodeboss.dev/js-game-dev/breakout-phaser/),
-  and
-  [more](https://labs.thecodeboss.dev),
+  and [more](https://labs.thecodeboss.dev),
 - 📣 [I like to talk](https://thecodeboss.dev/talks)
-- 📝 [I used to write](https://thecodeboss.dev/talks)
+- 📝 [I used to write](https://thecodeboss.dev/blog)
 - 💥 The **Command Line** is my preferred way to do everything
 - 💬 Ping me about **dev**, **public speaking**, **volunteering**, **tea**,
   **cocktails**, and **longboarding**
