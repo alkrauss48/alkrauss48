@@ -18,7 +18,7 @@
 - ⚙️  I like to code in:
   - `laravel`, `vue`, `ruby`, `python`, `swift`, `sql`, `go`, `svelte`, and [a
     lot more](https://thecodeboss.dev/skills)
-- ☁️  I build and deploy with `docker`, `ci/cd`, and `kubernetes`
+- ☁️  I build and deploy with `docker`, `ci/cd`, `gitops`, and `kubernetes`
 - 🏢 Currently working at **[Clevyr](https://clevyr.com)**
 - 🔷 Bigger Projects:
   [Portfolio Site](https://thecodeboss.dev),
