@@ -1,18 +1,18 @@
 # Hi, I'm Aaron 🙌
 
- I'm a Software Engineer based in Oklahoma City, Oklahoma, USA.
+ I'm a Software Developer based in Oklahoma City, Oklahoma, USA.
 
-Check out **[✨ My Portfolio Site ✨](https://thecodeboss.dev)**
+- ✨ My Portfolio Site: [thecodeboss.dev](https://thecodeboss.dev)
+- 👨‍💼 LinkedIn: [linkedin.com/in/alkrauss48/](https://www.linkedin.com/in/alkrauss48/)
 
 ##### NOW
 
 - ⚡️ Organizing [OKC WebDevs](https://www.meetup.com/OKCWebDevs/)
 and [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/)
 - 🦬 Volunteering with [Techlahoma](https://techlahoma.org)
-- 🏢 Currently working at [Clevyr](https://clevyr.com) as the **Technical Lead
+- 🏢 Working at [Clevyr](https://clevyr.com) as the **Technical Lead
   of New Development**
 - 📽️ Just launched [Simple Slides](https://simpleslides.dev)
-- ✨ Recently revamped [thecodeboss.dev](https://thecodeboss.dev)
 
 ##### BIO
 
@@ -20,20 +20,18 @@ and [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/)
 - ⚙️  I like to code in:
   - `laravel`, `vue`, `flutter`, `ruby`, `swift`, `sql`, `go`, `css`, and [a
     lot more](https://thecodeboss.dev/resume)
-- ☁️  I build and deploy with `docker`, `ci/cd`, `gitops`, and `kubernetes`
+- ☁️  I build and deploy with [docker](https://hub.docker.com/u/alkrauss48),
+    [gitops](https://github.com/alkrauss48/fleet-infra),
+    and [kubernetes](https://github.com/alkrauss48/kubernetes)
 - 📣 [I like to talk](https://thecodeboss.dev/categories/talks)
 - 📝 [I used to write](https://thecodeboss.dev/categories/blog)
 - 💥 The **Command Line** is my preferred way to do everything
 - 💬 Ping me about **dev**, **public speaking**, **volunteering**, **tea**,
   **cocktails**, and **longboarding**
-- ❤️  My [wife](https://github.com/laylark) and [son](https://cyruskrauss.com) are the best things in the whole world
+- ❤️  My [wife](https://laylakrauss.dev/) and [son](https://cyruskrauss.com) are the best things in the whole world
 
 ##### FEATURED PROJECTS
-  * [Portfolio Site](https://thecodeboss.dev)
   * [CyrusLyrics](https://cyruskrauss.com)
-  * [ResumeHaus](https://resumeha.us)
   * [Simple Slides](https://simpleslides.dev)
-
-##### UPCOMING PROJECT REVAMPS
+  * [ResumeHaus](https://resumeha.us)
   * [Carnegie Chart](https://labs.thecodeboss.dev/carnegie-chart)
-  * [Growler Friday](https://growlerfriday.com)
