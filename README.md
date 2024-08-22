@@ -16,7 +16,7 @@ and [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/)
 
 ##### BIO
 
-- 💾 `vim` is my text editor of choice. This pretty much defines me.
+- 💾 `vim` is my text editor of choice. This pretty much defines me
 - ⚙️  I like to code in:
   - `laravel`, `vue`, `flutter`, `ruby`, `swift`, `sql`, `go`, `css`, and [a
     lot more](https://thecodeboss.dev/resume)
@@ -28,10 +28,10 @@ and [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/)
 - 💥 The **Command Line** is my preferred way to do everything
 - 💬 Ping me about **dev**, **public speaking**, **volunteering**, **tea**,
   **cocktails**, and **longboarding**
-- ❤️  My [wife](https://laylakrauss.dev/) and [son](https://cyruskrauss.com) are the best things in the whole world
+- ❤️  My wife [Layla](https://laylakrauss.dev/) and sons [Cyrus](https://cyruskrauss.com) and [Lucas](https://lucaskrauss.dev) are the best things in the whole world
 
 ##### FEATURED PROJECTS
-  * [CyrusLyrics](https://cyruskrauss.com)
   * [Simple Slides](https://simpleslides.dev)
-  * [ResumeHaus](https://resumeha.us)
+  * [CyrusLyrics](https://cyruskrauss.com)
+  * [Lucas Hints](https://lucaskrauss.dev)
   * [Carnegie Chart](https://labs.thecodeboss.dev/carnegie-chart)
