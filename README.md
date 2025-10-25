@@ -12,13 +12,12 @@ and [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/)
 - 🦬 Volunteering with [Techlahoma](https://techlahoma.org)
 - 🏢 Working at [Clevyr](https://clevyr.com) as the **Technical Lead
   of New Development**
-- 📽️ Just launched [Simple Slides](https://simpleslides.dev)
+- 📽️ Just launched [The Krauss Haus](https://thekrausshaus.com) and [Simple Slides](https://simpleslides.dev)
 
 ##### BIO
 
-- 💾 `vim` is my text editor of choice. This pretty much defines me
 - ⚙️  I like to code in:
-  - `laravel`, `vue`, `flutter`, `ruby`, `swift`, `sql`, `go`, `css`, and [a
+  - `laravel`, `vue`, `flutter`, `dotnet`, `ruby`, `swift`, `sql`, `go`, `css`, and [a
     lot more](https://thecodeboss.dev/resume)
 - ☁️  I build and deploy with [docker](https://hub.docker.com/u/alkrauss48),
     [gitops](https://github.com/alkrauss48/fleet-infra),
@@ -26,12 +25,14 @@ and [OKC Coffee and Code](https://www.meetup.com/okccoffeeandcode/)
 - 📣 [I like to talk](https://thecodeboss.dev/categories/talks)
 - 📝 [I used to write](https://thecodeboss.dev/categories/blog)
 - 💥 The **Command Line** is my preferred way to do everything
+- 💾 `vim` was my text editor of choice for over a decade, before `cursor`.
 - 💬 Ping me about **dev**, **public speaking**, **volunteering**, **tea**,
-  **cocktails**, and **longboarding**
+  [**cocktails**](https://thekrausshaus.com), and **longboarding**
 - ❤️  My wife [Layla](https://laylakrauss.dev/) and sons [Cyrus](https://cyruskrauss.com) and [Lucas](https://lucaskrauss.dev) are the best things in the whole world
 
 ##### FEATURED PROJECTS
   * [Simple Slides](https://simpleslides.dev)
+  * [The Krauss Haus](https://thekrausshaus.com)
   * [CyrusLyrics](https://cyruskrauss.com)
   * [Lucas Hints](https://lucaskrauss.dev)
   * [Carnegie Chart](https://labs.thecodeboss.dev/carnegie-chart)
